@@ -38,6 +38,8 @@ a:hover
 
 
 
+
+
 a span
 {
 	
@@ -111,4 +113,6 @@ transition: 1s;
 transition-delay: 0.75s;
 
 }
-
+.circular--square {
+  border-radius: 50%;
+}
